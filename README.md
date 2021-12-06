@@ -1,5 +1,7 @@
 Mask_detection_tracking_with_sort
-===
+===========================================
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+===========================================
 ### Dependencies:
 
 To install required dependencies run:
