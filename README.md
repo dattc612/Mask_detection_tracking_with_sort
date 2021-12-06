@@ -1,6 +1,6 @@
 Mask_detection_tracking_with_sort
 ===========================================
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![Alt Text](https://github.com/iamdat6120/Mask_detection_tracking_with_sort/blob/main/video_demo/untitled.GIF)
 ===========================================
 ### Dependencies:
 
