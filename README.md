@@ -1,4 +1,4 @@
-# Face_mask_detection_sort_yolov5
+Mask_detection_tracking_with_sort
 ===
 ### Dependencies:
 
