@@ -1,4 +1,5 @@
-Mask_detection_tracking_with_sort
+Mask detection tracking with SORT
+
 ===========================================
 ![Alt Text](https://github.com/iamdat6120/Mask_detection_tracking_with_sort/blob/main/video_demo/untitled.GIF)
 ===========================================
